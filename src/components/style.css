@@ -1,0 +1,35 @@
+*{
+ box-sizing: border-box;
+ padding: 0px;
+ margin: 0px;
+}
+.destinyyyy{
+    text-align: center;
+    height:4000px;
+}
+.values{
+    display:flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    
+}
+.merge{
+    margin-top:20px;
+    width: 500px;
+    height: 500px;
+    cursor: pointer;
+    text-align: center;
+     
+}
+.imgsize{
+    height: 220px;
+    width: 220px;
+}
+.individual{
+    margin-top:20px;
+    margin-left:100px;
+    width: 1000px;
+    height: 900px;
+    background-color:aqua ;
+    text-align: center;
+}
